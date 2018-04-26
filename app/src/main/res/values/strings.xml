@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Sensor Overzicht</string>
+    <string name="sensor_data">Get data</string>
+    <string name="value_light">Light Sensor: %1$.2f</string>
+    <string name="value_proximity">Proximity Sensor: %1$.2f</string>
+    <string name="error_no_sensor">No sensor</string>
 </resources>
